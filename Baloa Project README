@@ -1,0 +1,27 @@
+# Baloa - Football Tournament Management Platform
+
+## Project Overview
+Comprehensive platform for managing football tournaments with interactive user flows.
+
+### Key Technologies
+- React.js
+- Redux
+- CSS3
+- Figma Design Implementation
+
+### User Flows
+- Tournament Registration
+- Team Management
+- Match Scheduling
+- Real-time Scoring
+
+### Project Structure
+```
+baloa/
+├── src/
+│   ├── components/
+│   ├── redux/
+│   ├── styles/
+│   └── utils/
+└── designs/
+```
