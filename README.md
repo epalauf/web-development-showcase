@@ -35,6 +35,7 @@ Committed to delivering innovative web solutions, continuously expanding technic
 
 ### 📫 Connect With Me
 - **Email:** epalau@gmail.com
+- **Whatsapp** +573118308741
 - **Location:** Cali, Colombia
 
 *Always learning, constantly evolving.*# web-development-showcase
