@@ -1,0 +1,25 @@
+# Voyages Leclerc - Flight Reservation Platform
+
+## Project Overview
+Responsive flight reservation platform with advanced booking features.
+
+### Key Technologies
+- Next.js
+- TypeScript
+- Material-UI
+- Responsive Design
+
+### Technical Highlights
+- Dynamic form validations
+- Responsive layout implementation
+- Cross-browser compatibility
+
+### Project Structure
+```
+voyages-leclerc/
+├── pages/
+├── components/
+├── styles/
+├── types/
+└── utils/
+```
