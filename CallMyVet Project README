@@ -1,0 +1,35 @@
+# CallMyVet - Veterinary Telemedicine Platform
+
+## Project Overview
+Innovative telemedicine platform connecting pet owners with veterinary professionals through video consultations.
+
+### Key Technologies
+- React.js
+- Redux
+- WebRTC
+- Firebase Authentication
+
+### Technical Challenges
+- Implementing real-time video communication
+- Managing complex application state
+- Ensuring secure, reliable consultations
+
+### Key Features
+- Real-time video consultations
+- Secure user authentication
+- Responsive design
+- Advanced state management
+
+### Project Structure
+```
+callmyvet/
+├── src/
+│   ├── components/
+│   ├── redux/
+│   │   ├── actions/
+│   │   ├── reducers/
+│   │   └── store.js
+│   ├── services/
+│   └── utils/
+└── README.md
+```
